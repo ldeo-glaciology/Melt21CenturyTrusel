@@ -1,0 +1,19 @@
+name: geo_scipy_3
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - holoviews
+  - scipy
+  - hvplot
+  - cartopy
+  - jupyter
+  - xarray
+  - matplotlib
+  - cftime
+  - nc-time-axis
+  - pandas
+  - python
+  - numpy
+prefix: /Users/jkingslake/opt/anaconda3/envs/geo_scipy_3
+
