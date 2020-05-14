@@ -12,7 +12,7 @@ Click this button:
 
 Advantage is that you dont need to install anything else, as all the packages are already installed. 
 
-Disadvantage is that is take a while to load (~5 mins). 
+Disadvantage is that it takes a while to load (~5 mins). 
 
 ### second option: use pangeo's default binder
 
