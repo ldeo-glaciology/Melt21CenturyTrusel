@@ -20,4 +20,4 @@ https://binder.pangeo.io/v2/gh/pangeo-gallery/default-binder/master/?urlpath=git
 
 Advantage: boots up much faster
 
-Disadvantage: you need to open a terminal in the binder and install nc-time-axis with `nc-time-axis`
+Disadvantage: you need to open a terminal in the binder and install nc-time-axis with `conda install nc-time-axis`
